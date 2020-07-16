@@ -1,0 +1,13 @@
+#sidebar {
+    background: linear-gradient(90deg, #52C234 -17.48%, #52C234 82.52%);
+    mix-blend-mode: screen;
+}
+
+div,
+aside,
+main,
+header,
+footer {
+    /* border: 1px solid red; */
+} 
+ 147 
